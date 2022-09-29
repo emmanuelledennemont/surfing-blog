@@ -13,7 +13,5 @@
 img{
     object-fit: cover;
     object-fit: contain;
-    height: 50%;
-    max-height: 500px;
     box-sizing: border-box;
 }
