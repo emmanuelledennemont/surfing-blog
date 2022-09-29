@@ -1,0 +1,11 @@
+/*background image*/
+
+#bcg-img{
+    background: url(./assets/linus-nylund-SfdwxMA5VIM-unsplash.jpg);
+    display: table;
+    height: 70vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
